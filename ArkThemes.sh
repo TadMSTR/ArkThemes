@@ -1,8 +1,6 @@
 #!/bin/bash
 
 #
-# Notes
-#
 # https://github.com/JohnIrvine1433/ArkThemes-fork
 #
 cd "$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )/ArkThemes"
