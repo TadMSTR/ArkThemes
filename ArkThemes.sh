@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#
 # Notes
 #
 # https://github.com/JohnIrvine1433/ArkThemes-fork
