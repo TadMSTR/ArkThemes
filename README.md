@@ -1,3 +1,7 @@
+# End of Life 
+ 
+This is now EOL. Please consider switching to **JohnIrvine's** [ArkThemes](https://github.com/JohnIrvine1433/ArkThemes-fork) or [AnberThemes](https://github.com/JohnIrvine1433/AnberThemes), depending on your needs.  
+  
 # ArkThemes
 
 Theme installer for [ArkOS](https://github.com/christianhaitian/arkos)  
